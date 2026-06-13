@@ -369,6 +369,8 @@ Add screenshots of the following project modules:
 
 ### Screenshot 1
 Main Menu Interface
+<img width="451" height="201" alt="Screenshot 2026-06-14 at 1 09 34 AM" src="https://github.com/user-attachments/assets/eb992852-1e8e-4367-8390-c8e88d4c6502" />
+
 
 ### Screenshot 2
 Document Addition
