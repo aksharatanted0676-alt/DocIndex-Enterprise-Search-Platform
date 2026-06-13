@@ -373,40 +373,51 @@ Add screenshots of the following project modules:
 
 ### 2.Naming Registry
 <img width="625" height="219" alt="Screenshot 2026-06-14 at 1 12 08 AM" src="https://github.com/user-attachments/assets/003428c9-17c7-4257-bb1d-65397c87c24b" />
+
 <img width="625" height="211" alt="Screenshot 2026-06-14 at 1 12 31 AM" src="https://github.com/user-attachments/assets/aace9d2c-c011-43d3-bf75-62a7b87539ca" />
 
 
 ###  3.Correction Trail
 <img width="628" height="209" alt="Screenshot 2026-06-14 at 1 13 31 AM" src="https://github.com/user-attachments/assets/cf7f7f23-f104-4931-9199-a6721fab8d51" />
+
 <img width="623" height="280" alt="Screenshot 2026-06-14 at 1 13 50 AM" src="https://github.com/user-attachments/assets/9fb230f7-4b78-4ecc-9ab6-59611838f335" />
 
 
 ### 4.Compute Line 
 <img width="624" height="245" alt="Screenshot 2026-06-14 at 1 14 45 AM" src="https://github.com/user-attachments/assets/ffda1fbe-00ed-48e5-875c-8103aded3dfa" />
+
 <img width="625" height="270" alt="Screenshot 2026-06-14 at 1 15 04 AM" src="https://github.com/user-attachments/assets/1eeb033c-5b58-4e66-96a0-cb53ee37a435" />
+
 <img width="622" height="252" alt="Screenshot 2026-06-14 at 1 15 21 AM" src="https://github.com/user-attachments/assets/262290bb-0010-4b5b-9ca8-bd91e1c24e05" />
 
 
 ### 5.Hit Sorter
 <img width="627" height="216" alt="Screenshot 2026-06-14 at 1 16 07 AM" src="https://github.com/user-attachments/assets/1bd7fbbe-8b3d-4d87-98b7-4d0ebc3e2792" />
+
 <img width="628" height="333" alt="Screenshot 2026-06-14 at 1 16 26 AM" src="https://github.com/user-attachments/assets/5dbdb5cd-1e34-4589-a4b8-e42f0947b93b" />
+
 <img width="627" height="208" alt="Screenshot 2026-06-14 at 1 16 46 AM" src="https://github.com/user-attachments/assets/b8eb2c6f-07a6-4e74-832e-5b285bd67aa6" />
 
 
 ### 6.Citation Map     
 <img width="624" height="231" alt="Screenshot 2026-06-14 at 1 17 30 AM" src="https://github.com/user-attachments/assets/5fc419b5-d3e2-4f0a-be09-29468edd7f0d" />
+
 <img width="624" height="528" alt="Screenshot 2026-06-14 at 1 17 49 AM" src="https://github.com/user-attachments/assets/92e323f8-fc21-4606-8d0b-e1a514a470eb" />
 
 
 ### 7.Validation Path & DFS
 <img width="626" height="211" alt="Screenshot 2026-06-14 at 1 18 32 AM" src="https://github.com/user-attachments/assets/38ea970a-8788-4012-8159-ee497c91b9de" />
+
 <img width="624" height="484" alt="Screenshot 2026-06-14 at 1 18 52 AM" src="https://github.com/user-attachments/assets/35505033-b98f-409a-b1e9-f68be5187027" />
+
 <img width="624" height="200" alt="Screenshot 2026-06-14 at 1 19 11 AM" src="https://github.com/user-attachments/assets/dc19ca39-9d3b-41c4-ab92-a471f7821848" />
+
 <img width="625" height="496" alt="Screenshot 2026-06-14 at 1 19 31 AM" src="https://github.com/user-attachments/assets/1ea77293-1038-4ca9-a919-e219e958cdd6" />
 
 
 ### 8.Compression Balancer
 <img width="626" height="196" alt="Screenshot 2026-06-14 at 1 20 16 AM" src="https://github.com/user-attachments/assets/38b10b6d-cec5-40a5-af55-4b993c3b4b5d" />
+
 <img width="626" height="435" alt="Screenshot 2026-06-14 at 1 20 36 AM" src="https://github.com/user-attachments/assets/9bcee5a8-ea7d-4f24-8346-e82a823bbc87" />
 
 
@@ -418,7 +429,7 @@ Add screenshots of the following project modules:
 <img width="604" height="221" alt="Screenshot 2026-06-14 at 1 21 44 AM" src="https://github.com/user-attachments/assets/3dff6047-44cc-4ab6-a657-e098eac2b293" />
 
 
-### 11.exit
+### 11.Exit
 <img width="623" height="106" alt="Screenshot 2026-06-14 at 1 22 28 AM" src="https://github.com/user-attachments/assets/a94e548c-7b61-4a7b-ae18-7726b45b88cc" />
 
 
