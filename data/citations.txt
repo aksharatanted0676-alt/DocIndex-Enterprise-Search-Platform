@@ -1,0 +1,16 @@
+NODE|Annual Financial Report 2023-24|No description
+NODE|data_dictionary.csv|Enterprise Data Dictionary
+NODE|api_reference.html|Public API Reference
+NODE|config_schema.json|Configuration Schema Spec
+NODE|compliance_guide.pdf|Regulatory Compliance Guide
+NODE|architecture_overview.docx|System Architecture Document
+NODE|annual_report_2023.pdf|Annual Financial Report 2023
+NODE|deployment_manual.pdf|Deployment & Operations Manual
+NODE|annual_report_2024.pdf|Annual Financial Report 2024
+EDGE|api_reference.html|config_schema.json
+EDGE|compliance_guide.pdf|data_dictionary.csv
+EDGE|architecture_overview.docx|deployment_manual.pdf
+EDGE|architecture_overview.docx|api_reference.html
+EDGE|deployment_manual.pdf|config_schema.json
+EDGE|annual_report_2024.pdf|compliance_guide.pdf
+EDGE|annual_report_2024.pdf|architecture_overview.docx

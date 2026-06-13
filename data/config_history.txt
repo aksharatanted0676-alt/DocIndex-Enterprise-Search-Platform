@@ -1,0 +1,6 @@
+STACK|INDEX_UPDATE|Added field 'doc_category' to search index|2026-06-13 10:00:00
+STACK|THRESHOLD_CHANGE|Raised relevance threshold from 0.6 to 0.75|2026-06-13 11:30:00
+STACK|FILTER_ADD|Added file-type filter: exclude .tmp files|2026-06-13 14:15:00
+UNDONE|FIELD_REMOVE|Removed deprecated field 'legacy_id'|2026-06-13 16:45:00
+UNDONE|FILTER_REMOVE|Removed file-type filter: exclude .tmp files|2026-06-13 23:05:53
+TOTAL|5

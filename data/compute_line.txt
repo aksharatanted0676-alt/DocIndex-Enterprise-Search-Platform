@@ -1,0 +1,7 @@
+PENDING|4|deployment_manual.pdf|FULL_SCAN|4
+PENDING|5|data_dictionary.csv|INDEX|2
+PENDING|6|annual_report_2023.pdf|METADATA|3
+PROCESSED|1|annual_report_2024.pdf|FULL_SCAN|3
+PROCESSED|2|budget_forecast.xlsx|INDEX|2
+PROCESSED|3|config_schema.json|CHECKSUM|1
+NEXTID|7
