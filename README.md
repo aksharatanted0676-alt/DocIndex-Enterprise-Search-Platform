@@ -3,7 +3,7 @@
 
 # Enterprise Search Engine Documentation Hub
 
-## 2.2 Problem Statement
+## 1. Problem Statement
 
 Organizations handle large volumes of digital documents that require efficient storage, retrieval, validation, ranking, and relationship management. Traditional file systems provide limited search capabilities and do not effectively support citation mapping, document ranking, undo operations, or workflow processing.
 
@@ -11,7 +11,7 @@ The Enterprise Search Engine Documentation Hub is designed to address these chal
 
 ---
 
-## 2.3 Objectives
+## 2. Objectives
 
 The primary objectives of this project are:
 
@@ -29,7 +29,7 @@ The primary objectives of this project are:
 
 ---
 
-## 2.4 System Overview / Architecture
+## 3. System Overview / Architecture
 
 ### Architecture Diagram
 
@@ -98,7 +98,7 @@ The primary objectives of this project are:
 
 ---
 
-## 2.5 Data Structures and Algorithms Used
+## 4. Data Structures and Algorithms Used
 
 | Data Structure / Algorithm | Purpose |
 |----------------------------|---------|
@@ -149,7 +149,7 @@ The primary objectives of this project are:
 
 ---
 
-## 2.6 Implementation Approach
+## 5. Implementation Approach
 
 The project is implemented in C++ using object-oriented programming principles.
 
@@ -193,7 +193,7 @@ The project is implemented in C++ using object-oriented programming principles.
 
 ---
 
-## 2.7 Time and Space Complexity Analysis
+## 6. Time and Space Complexity Analysis
 
 | Module | Time Complexity | Space Complexity |
 |----------|----------------|------------------|
@@ -216,7 +216,7 @@ Where:
 
 ---
 
-## 2.8 Execution Steps
+## 7. Execution Steps
 
 ### Compilation
 
@@ -257,7 +257,7 @@ g++ EnterpriseSearchHub.cpp -o SearchHub
 
 ---
 
-## 2.9 Sample Inputs and Outputs
+## 8. Sample Inputs and Outputs
 
 ### Example 1: Add Document
 
@@ -363,7 +363,7 @@ A B D C
 
 ---
 
-## 2.10 Screenshots
+## 9. Screenshots
 
 Add screenshots of the following project modules:
 
@@ -402,7 +402,7 @@ Persistent Storage File Output
 
 ---
 
-## 2.11 Results and Observations
+## 10. Results and Observations
 
 ### Results
 
@@ -433,7 +433,7 @@ Overall DSA syllabus coverage is approximately **98–100%**.
 
 ---
 
-## 2.12 Conclusion
+## 11. Conclusion
 
 The Enterprise Search Engine Documentation Hub demonstrates the practical application of multiple Data Structures and Algorithms within a real-world document management environment.
 
